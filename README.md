@@ -6,3 +6,5 @@ images used are from
 https://images2.alphacoders.com/630/630788.jpg
 https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_the_Workers%27_Party_of_Korea.svg
 https://www.nathanmagnuson.com/wp-content/uploads/2013/06/Communism.jpg
+
+text used from chatgpt for "About"
