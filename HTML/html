@@ -157,6 +157,12 @@ Environmental regulations were often lax, leading to pollution, deforestation, a
   However, the absence of a true communist society remains a characteristic of these attempts at implementing Marxist principles.
 </h4>
   <p>A website created by me for my history Project.</p>
-
-</body>
+  
+	<footer>
+    <span class="bold-yellow">Find us on:</span>
+    <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a>
+    <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a>
+    <a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a>
+  </footer>
+  </body>
 </html>
