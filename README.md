@@ -20,3 +20,8 @@ Colors that i am using:
  font-family: Arial, Helvetica, sans-serif
 
 
+About, what ive used for it:
+
+        color: rgb(224, 224, 0)
+        background-color: #fb0202;
+    font-family: Arial, Helvetica, sans-serif;
