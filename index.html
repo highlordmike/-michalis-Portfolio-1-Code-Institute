@@ -6,9 +6,9 @@
 <meta charset="UTF-8">
 <style>
   h1 {
-      color: rgb(224, 224, 0);}
+      color: rgb(209, 79, 9);}
    body {
-      background-color: #fb0202;
+      background-color: #ff9797;
     }
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -17,17 +17,12 @@ body {
 
 </style>
 </head>
-<form>
-  <label for="username">Username:</label>
-  <input type="text" id="username" name="username" required>
-
-  <label for="password">Password:</label>
-  <input type="password" id="password" name="password" required>
-
-  <input type="submit" value="Sign In">
+<body>
+  <form action="upload.php" method="POST" enctype="multipart/form-data">
+  <input type="file" name="fileToUpload" id="fileToUpload">
+  <input type="submit" value="Upload">
 </form>
 
-<body>
   <header>
     <!-- Your logo and other header elements -->
     <nav>
@@ -164,6 +159,10 @@ Environmental regulations were often lax, leading to pollution, deforestation, a
   However, the absence of a true communist society remains a characteristic of these attempts at implementing Marxist principles.
 </h4>
   <p>A website created by me for my history Project.</p>
+  <p><h3> Please give your feedback on this subject</h3></p>  <form action="upload.php" method="POST" enctype="multipart/form-data">
+    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="submit" value="Upload">
+  </form>
   
 	<footer>
     <span class="bold-yellow">Find us on:</span>
