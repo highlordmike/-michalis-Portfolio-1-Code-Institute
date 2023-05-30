@@ -9,8 +9,7 @@ https://images2.alphacoders.com/630/630788.jpg
 
 none of these Images belong to me
 
-text used from chatgpt, its about asking the right question to get the right answer, 
-
+text used from chatgpt
 
 Colors that i am using: 
  background-color: #fb0202;
@@ -22,6 +21,5 @@ Colors that i am using:
 
 About, what ive used for it:
 
-        color: rgb(224, 224, 0)
-        background-color: #fb0202;
-    font-family: Arial, Helvetica, sans-serif;
+
+
