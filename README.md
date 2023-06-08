@@ -56,3 +56,10 @@ It is essential that websites prioritise clarity, impartiality and user-friendli
 
 In summary, websites serve as important tools for disseminating information and enabling individuals to become well-informed and independent decision-makers. 
 
+HTML for me.
+
+HTML has been a delightful surprise for me! I was first intimidated by its complexities, but as I dug deeper and began playing, I realized its actual nature—simple, intuitive, and simply exhilarating! HTML's fundamental structure and readability impressed me much.
+
+Understanding the function of each heading first appeared to be a difficult challenge. I was continually asking myself, 'What if I did this?' However, through relentless trial and error, I ultimately got a strong understanding of how to use headers efficiently in my code.
+
+It seemed to me that practice and hands-on experience are the ultimate keys to understanding any programming language or markup language, such as HTML. Accepting this method has given me the ability to grow my
