@@ -61,6 +61,9 @@ In summary, websites serve as important tools for disseminating information and 
 - HTML
   - No errors were returned when passing through the official [W3C validator]
 
+### Unfixed Bugs
+- all bugs are fixed, at somepoint when i threw it all in the pot i had over 180 errors becase of a few typos : :  ' " {}
+  
 ## Deployment
 - The site was deployed to GitHub pages.
 - - In the GitHub repository, navigate to the Settings tab 
