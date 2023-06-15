@@ -1,4 +1,4 @@
-# michalis.Project-1-Code-Institute-
+#  michalis-Portfolio-1-Code-Institute
 
 - https://ui.dev/amiresponsive?url=https://highlordmike.github.io/michalis.Project-1-Code-Institute-/
 
