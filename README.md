@@ -65,7 +65,12 @@ In summary, websites serve as important tools for disseminating information and 
 - The site was deployed to GitHub pages.
 - - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
- 
+
+ ### Media
+
+- The photos/pictures used on the home are from (images2.alphacoders.com)(wikimedia.org)(.nathanmagnuson.com)
+- the photos/pictures used on the Gallery (upload.wikimedia.org)(upload.wikimedia.org)(preview.redd.it)
+- The video on the Gallery, i have asked for permision to use it and i was told to send them a copy when im done of the link when i was done.
 ##### HTML for me.
 
 HTML has been a delightful surprise for me! I was first intimidated by its complexities, but as I dug deeper and began playing, I realized its actual nature—simple, intuitive, and simply exhilarating! HTML's fundamental structure and readability impressed me much.
