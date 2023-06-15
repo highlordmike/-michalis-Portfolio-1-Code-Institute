@@ -56,7 +56,12 @@ It is essential that websites prioritise clarity, impartiality and user-friendli
 
 In summary, websites serve as important tools for disseminating information and enabling individuals to become well-informed and independent decision-makers. 
 
-HTML for me.
+#### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator]
+
+##### HTML for me.
 
 HTML has been a delightful surprise for me! I was first intimidated by its complexities, but as I dug deeper and began playing, I realized its actual nature—simple, intuitive, and simply exhilarating! HTML's fundamental structure and readability impressed me much.
 
