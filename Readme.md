@@ -1,6 +1,6 @@
 #  michalis-Portfolio-1-Code-Institute
 
-- https://ui.dev/amiresponsive?url=https://highlordmike.github.io/michalis.Project-1-Code-Institute-/
+- https://ui.dev/amiresponsive?url=https://highlordmike.github.io/-michalis-Portfolio-1-Code-Institute/
 
 This is my first Project, i am using purly HTML only, css will be used for the next project.
 
