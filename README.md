@@ -66,7 +66,6 @@ In summary, websites serve as important tools for disseminating information and 
 - - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
  
-  - 
 ##### HTML for me.
 
 HTML has been a delightful surprise for me! I was first intimidated by its complexities, but as I dug deeper and began playing, I realized its actual nature—simple, intuitive, and simply exhilarating! HTML's fundamental structure and readability impressed me much.
