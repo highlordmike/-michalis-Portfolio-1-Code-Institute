@@ -35,7 +35,7 @@ Text used from ChatGpt, wikipedia, Google, and from a few people i know who have
 Gallery
 
 Wording used from Google searching and ChatGPT and wikipedia
-Images used for Gallery wikipedia
+Images used for Gallery Wikipedia and Reddit
 Video used for Gallery is from youtube with persmision from the channel 
 
 https://upload.wikimedia.org/wikipedia/commons/a/a8/Communist_countries_1979-1983.png
@@ -44,7 +44,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d1/%22Communism_Capital%22_1883
 
 https://www.youtube.com/embed/uNkMcaN-mMM
 
-
+https://preview.redd.it/eknrjpxd9u2b1.png?width=1800&format=png&auto=webp&v=enabled&s=dcd31fff74ff420bd3f41cfe1f11a81370a638f1
 
 Who is the site for?
 
