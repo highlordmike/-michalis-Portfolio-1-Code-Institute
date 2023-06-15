@@ -1,6 +1,6 @@
 # michalis.Project-1-Code-Institute-
 
-https://ui.dev/amiresponsive?url=https://highlordmike.github.io/michalis.Project-1-Code-Institute-/
+- https://ui.dev/amiresponsive?url=https://highlordmike.github.io/michalis.Project-1-Code-Institute-/
 
 This is my first Project, i am using purly HTML only, css will be used for the next project.
 
@@ -13,12 +13,12 @@ Font-family: Arial, Helvetica, sans-serif;
  background-color: #ff9797;
     }
 
-nav  
+## nav  
 Index
 About
 Gallery
 
-Index
+### Index
 
 Images used from
 https://www.nathanmagnuson.com/wp-content/uploads/2013/06/Communism.jpg
@@ -32,7 +32,7 @@ About
 
 Text used from ChatGpt, wikipedia, Google, and from a few people i know who have lived through it.
 
-Gallery
+- __Gallery__
 
 Wording used from Google searching and ChatGPT and wikipedia
 Images used for Gallery Wikipedia and Reddit
